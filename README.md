@@ -16,5 +16,3 @@
   3.FileSaver.js
   4.SortableJS
 
-   ![Uploading 8209db93e227f44b46556fe2c30c7b68.png…]()
-
